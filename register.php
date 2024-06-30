@@ -230,7 +230,9 @@ session_start();
       </label>
     </div>
     <button class="btn btn-primary w-100 py-2" type="submit">Sign in</button>
-    <p class="mt-5 mb-3 text-body-secondary">&copy; 2017–2024</p>
+    <div class="p-4">
+    <strong>Do you have an account ? </strong> <a href="index.php">sign in</a>
+</div>
   </form>
 </main>
 <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
